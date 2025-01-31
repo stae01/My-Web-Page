@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(38, 38, 38);
+    display: flex;
+    flex-direction: column; 
+    min-height: 100vh; 
+}
+
+h2 {
+    color:rgb(113, 198, 255);
+    text-align: center;
+    
+}
+
+p {
+    color: white;
+    margin: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#favoritos{
+    color: antiquewhite;
+}
+
+
+section{
+    color: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section > h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(146, 146, 146, 0.65);
+    
+}
+
+#tabla{
+    color: white;
+    margin:auto;
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+footer {
+    text-align: center;
+    background-color: #6b6b6b;
+    color: white;
+    padding: 20px;
+    margin-top: auto;  
+    
+}
+
+footer > a{
+
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nuevo {
+
+    color: antiquewhite;
+
+}
+
+img {
+    align-self: center;
+}
